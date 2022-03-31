@@ -9,7 +9,7 @@
 
   <properties>
     <jwt.version>4.34.2</jwt.version>
-      <spring.version>5.1.9.RELEASE</spring.version>
+      <spring.version>5.3.18</spring.version>
     <!-- default environment for integration tests> -->
     <testenv>local</testenv>
   </properties>
